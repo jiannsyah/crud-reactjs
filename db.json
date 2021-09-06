@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "jiannsyah",
+      "alamat": "jakarta",
+      "umur": 24,
+      "nohp": "085342256800"
+    },
+    {
+      "id": 2,
+      "nama": "daud",
+      "alamat": "kendari",
+      "umur": 22,
+      "nohp": "085342256800"
+    },
+    {
+      "id": 3,
+      "nama": "doyok",
+      "alamat": "magelang",
+      "umur": 24,
+      "nohp": "085342256800"
+    }
+  ]
+}
